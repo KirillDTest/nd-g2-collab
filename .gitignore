@@ -1,0 +1,7 @@
+dist
+node_modules
+gulpfile.js
+package.json
+yarn.lock
+src/index.jade
+src/style/main.sass
