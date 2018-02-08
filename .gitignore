@@ -9,3 +9,4 @@ yarn.lock
 /src/style/clientsSay's.sass
 *.json
 .gitignore
+.gitignore
