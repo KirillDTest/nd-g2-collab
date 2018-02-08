@@ -1,6 +1,8 @@
-node_modules
-dist
-gulpfile.js
 npm-debug.log
-package.json
 yarn.lock
+/node_modules/
+/dist/
+/src/template.jade
+/gulpfile.js
+*.json
+.gitignore
