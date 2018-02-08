@@ -5,7 +5,7 @@ yarn.lock
 /src/template.jade
 /gulpfile.js
 /src/includes/clientsSay's.jade
-/src/style/main.sass
+src/style/main.sass
 /src/style/clientsSay's.sass
 *.json
 .gitignore
